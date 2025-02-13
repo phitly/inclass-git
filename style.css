@@ -1,5 +1,27 @@
 body{
     background-image: url("park.jpg");
-    background-size: cover;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.gif{
+    background: transparent;
     
+}
+.carlton{
+    background: transparent;
+    position: relative;
+    top: 400px;
+}
+.kuromi{
+    position:absolute;
+    top: 0px;
+}
+
+.audio{
+    background: transparent;
+    position: relative;
+    top:330px;
 }
